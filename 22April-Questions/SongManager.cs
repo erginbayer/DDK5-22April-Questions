@@ -13,6 +13,7 @@ namespace _22April_Questions
             var playDate = pieceEntity.LastPlayDate.ToString("dd MMMM yyyy, dddd");
             return playDate;
         }
+
         public void PlaySong(ICall iCall)
         {
             Console.WriteLine("Playing : " + ((Song)iCall).Name);

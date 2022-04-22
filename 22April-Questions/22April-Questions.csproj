@@ -51,6 +51,7 @@
     <Compile Include="ICall.cs" />
     <Compile Include="IPieceEntity.cs" />
     <Compile Include="Log.cs" />
+    <Compile Include="MusicHelpers.cs" />
     <Compile Include="MyFavorites.cs" />
     <Compile Include="Playlist.cs" />
     <Compile Include="Program.cs" />

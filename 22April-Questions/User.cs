@@ -13,23 +13,29 @@ namespace _22April_Questions
         public string Surname { get; set; }
         public string EMail { get; set; }
         public string Address { get; set; }
-        public string Password { get => MD5Create(Password); set => Password = value; }
+        public string Password { get; set; }
+        //public string Password { get => MD5Create(Password); set => Password = value; }
 
         public User(string name, string surname)
         {
             this.Name = name;
             this.Surname = surname;
         }
-        public static string MD5Create(string input)
-        {
-            using (MD5 md5 = MD5.Create())
-            {
-                byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(input);
-                byte[] hashBytes = md5.ComputeHash(inputBytes);
+        //Hata tekrar kontrol et.
+        //public static string MD5Create(string input)
+        //{
+        //    using (MD5 md5 = MD5.Create())
+        //    {
+        //        byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(input);
+        //        byte[] hashBytes = md5.ComputeHash(inputBytes);
 
-                return Convert.ToBase64String(hashBytes);
-            }
-        }
+        //        return Convert.ToHexString(hashBytes);
+        //        byte[] inputBytes = System.Text.Encoding.ASCII.GetBytes(input);
+        //        byte[] hashBytes = md5.ComputeHash(inputBytes);
+
+        //        return Convert.ToBase64String(hashBytes);
+        //    }
+        //}
 
     }
 }

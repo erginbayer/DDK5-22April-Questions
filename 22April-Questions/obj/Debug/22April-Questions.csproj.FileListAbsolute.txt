@@ -1,0 +1,8 @@
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\bin\Debug\22April-Questions.exe.config
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\bin\Debug\22April-Questions.exe
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\bin\Debug\22April-Questions.pdb
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\obj\Debug\22April-Questions.csproj.AssemblyReference.cache
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\obj\Debug\22April-Questions.csproj.SuggestedBindingRedirects.cache
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\obj\Debug\22April-Questions.csproj.CoreCompileInputs.cache
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\obj\Debug\22April-Questions.exe
+C:\Users\z004j86z\Desktop\22April-Questions\22April-Questions\22April-Questions\obj\Debug\22April-Questions.pdb
